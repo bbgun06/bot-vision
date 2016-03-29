@@ -1,0 +1,9 @@
+{
+	"name":"bot-vision",
+	"author":"bbgun06",
+	"version":"0.1",
+	"title":"bot-vision",
+	"homepage":" ",
+	"description":"Lets bots reveal the FOW.",
+	"dependencies": ["base >= 0.12.00"]
+}
